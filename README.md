@@ -8,4 +8,4 @@ Upon launch, RGB Windows will start cycling the colors immediately.
 3. Here, you can adjust the interval for cycling through the colors (30 ms = fast, 300 ms = slow)
 
 # Downloads
-Go to the [Releases](/releases) page.
+Go to the [Releases](https://github.com/theawesomecoder61/RGBWindows/releases) page.
