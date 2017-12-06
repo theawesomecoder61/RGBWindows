@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\bin\Debug\RGBWindows.exe.config
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\bin\Debug\RGBWindows.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\bin\Debug\RGBWindows.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.Form1.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\RGBWindows\RGBWindows\obj\Debug\RGBWindows.About.resources
